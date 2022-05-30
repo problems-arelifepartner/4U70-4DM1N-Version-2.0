@@ -38,7 +38,7 @@ bash Admin.sh
 
 ```
 
-### Screen shot!
+### USE IN YOUR OWN RISK!
 
 
 
