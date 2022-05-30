@@ -8,9 +8,9 @@ Private script for those who are hackers... Educational purpose only
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=DEVIL+-+ADMIN!..;AUTO+ADMIN!;This+tool+only+for+educational+purposes!;Dont+use+illegally!...;coded+by+MR+D3V1L+%3A)](https://git.io/typing-svg)
 
-<div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/3ea498a9c84fee2e76785.jpg" width="250" height="250"/>
- <p align="center">
+
+
+
  
 <p align="center">
 <a href="https://wa.me/+33643000003"><img title="MR D3V1L" src="https://img.shields.io/badge/Cyber_smile-Contact me-MR DEVIL/DEVIL%20MON?color=Blue&style=for-the-badge&logo=whatsapp"></a>
