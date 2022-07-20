@@ -27,7 +27,9 @@ pkg update
 
 pkg upgrade
 
-pkg install git bash
+pkg install git 
+
+pkg install bash
 
 git clone https://github.com/problems-arelifepartner/4U70-4DM1N-Version-2.0
 
